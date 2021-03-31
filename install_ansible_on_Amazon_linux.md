@@ -19,7 +19,7 @@ Ansible is an open-source automation platform. It is very, very simple to set up
     pip install ansible
    ansible --version
    ```
-   
+   https://docs.ansible.com/ansible/latest/installation_guide/intro_configuration.html
 1. Create a user called ansadmin (on Control node and Managed host)  
    ```sh
    useradd ansadmin
