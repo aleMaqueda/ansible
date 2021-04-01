@@ -14,7 +14,7 @@ Ansible is an open-source automation platform. It is very, very simple to set up
    yum install python
    yum install python-pip
    ```
-   python 2.7 doesn't work with dnf
+   amazon linux 2 & python 2.7 doesn't work with dnf
    
    https://forums.aws.amazon.com/thread.jspa?messageID=916873
 1. Install ansible using pip check for version
